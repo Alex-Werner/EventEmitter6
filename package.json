@@ -1,0 +1,18 @@
+{
+  "name": "EventEmitter6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "EventEmitter": "^1.0.0",
+    "eventemitter2": "^3.0.0",
+    "eventemitter3": "^2.0.2",
+    "eventemitter4": "^0.2.4",
+    "eventemitter5": "^1.2.4"
+  }
+}
